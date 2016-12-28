@@ -26,4 +26,4 @@ TODO
 
 MADE WITH ❤ BY
 ====
-[@grgvineet](https://github.com/grgvineet), [@aayusharora](https://github.com/aayusharora) and [@the-dagger](https://github.com/the-dagger)
+[@anurag-kumar](https://github.com/akanuragkumar)
