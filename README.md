@@ -1,4 +1,4 @@
-# lEarnit
+# lEARNIT
 
 lEarnit is an Android application powered by Paytm which motivates learning in students by rewarding them for studying<br>
 It contains various study modules which have a reward amount associated with them.<br>
